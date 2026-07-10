@@ -10,7 +10,7 @@ This project simulates a real-world business analytics workflow: starting from a
 
 The project uses the **Meta Ads Performance Dataset**, a set of related tables modeled after how Facebook/Instagram (Meta) ad platforms capture campaign, ad, user, and event-level data.
 
-📥 **Dataset link:** datasets
+📥 **Dataset link:** https://github.com/Priya-DharshiniRamesh/meta-ad-performance-dashboard/tree/main/datasets
 
 ### Tables & Schema
 
@@ -47,7 +47,7 @@ The `.pbix` file contains a KPI summary view plus **7 core visuals**, all driven
 | **Target Gender** | Donut chart | Which gender segment drives the selected metric |
 | **Target Age Group** | Bar chart | Which age group is most responsive to campaigns |
 | **Country** | Map | Geographic view of campaign reach and engagement |
-| **Calendar Month** | Calendar heat map | Seasonal trends, peak ad months/days |
+| **Calendar Month** | Calendar Heatmap | Seasonal trends, peak ad months/days |
 | **Weekly Trend** | Stacked column (by ad type) | Ad-type contribution to performance over weeks |
 | **Hourly Trend** | Area chart | User activity patterns by hour of day (0–23) |
 | **Ad Type** | Matrix | Metric comparison across ad type × platform |
@@ -74,10 +74,10 @@ The `.pbix` file contains a KPI summary view plus **7 core visuals**, all driven
 ## 🚀 How to Use
 
 1. Clone or download this repository.
-   ```
+   ```bash
    https://github.com/Priya-DharshiniRamesh/meta-ad-performance-dashboard.git
    ```
-2. Open `Meta_Ad_Performance_Dashboard.pbix` in **Power BI Desktop** (free download from [Microsoft](https://powerbi.microsoft.com/desktop/)).
+2. Open `Meta_Ad_Performance_Dashboard.pbix` in **Power BI Desktop** free download from [Microsoft Power BI Desktop](https://powerbi.microsoft.com/desktop/).
 3. Use the **metric-selector parameter** at the top of the report to switch the KPI shown across all visuals (Impressions, Clicks, Engagements, Purchases, etc.).
 4. Use the slicers to filter by platform, ad type, country, gender, age group, or date range.
 
