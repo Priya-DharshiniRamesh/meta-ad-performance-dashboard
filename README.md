@@ -74,7 +74,7 @@ The `.pbix` file contains a KPI summary view plus **7 core visuals**, all driven
 ## 🚀 How to Use
 
 1. Clone or download this repository.
-   ```bash
+   ```Bash
    https://github.com/Priya-DharshiniRamesh/meta-ad-performance-dashboard.git
    ```
 2. Open `Meta_Ad_Performance_Dashboard.pbix` in **Power BI Desktop** free download from [Microsoft Power BI Desktop](https://powerbi.microsoft.com/desktop/).
@@ -89,7 +89,7 @@ The `.pbix` file contains a KPI summary view plus **7 core visuals**, all driven
 
 ```
 ├── Meta_Ad_Performance_Dashboard.pbix   # Power BI report file
-├── Business_Requirements_Document.pdf   # BRD: objectives, scope, KPIs, chart requirements
+├── images.pdf   # BRD: objectives, scope, KPIs, chart requirements
 ├── Domain_Knowledge_Document.pdf        # Data model & field-level documentation
 └── README.md                            # Project documentation
 ```
