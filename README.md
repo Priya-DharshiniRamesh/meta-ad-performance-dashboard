@@ -10,7 +10,7 @@ This project simulates a real-world business analytics workflow: starting from a
 
 The project uses the **Meta Ads Performance Dataset**, a set of related tables modeled after how Facebook/Instagram (Meta) ad platforms capture campaign, ad, user, and event-level data.
 
-📥 **Dataset link:** 
+📥 **Dataset link:** datasets
 
 ### Tables & Schema
 
