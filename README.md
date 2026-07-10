@@ -74,8 +74,8 @@ The `.pbix` file contains a KPI summary view plus **7 core visuals**, all driven
 ## 🚀 How to Use
 
 1. Clone or download this repository.
-   ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
+   ```
+   https://github.com/Priya-DharshiniRamesh/meta-ad-performance-dashboard.git
    ```
 2. Open `Meta_Ad_Performance_Dashboard.pbix` in **Power BI Desktop** (free download from [Microsoft](https://powerbi.microsoft.com/desktop/)).
 3. Use the **metric-selector parameter** at the top of the report to switch the KPI shown across all visuals (Impressions, Clicks, Engagements, Purchases, etc.).
