@@ -88,10 +88,24 @@ The `.pbix` file contains a KPI summary view plus **7 core visuals**, all driven
 ## 📁 Repository Structure
 
 ```
-├── Meta_Ad_Performance_Dashboard.pbix   # Power BI report file
-├── images.pdf   # BRD: objectives, scope, KPIs, chart requirements
-├── Domain_Knowledge_Document.pdf        # Data model & field-level documentation
-└── README.md                            # Project documentation
+meta-ad-performance-dashboard
+│
+├── datasets/
+│   ├── ad_events.csv
+│   ├── ads.csv
+│   ├── campaigns.csv
+│   └── users.csv
+│
+├── images/
+│   └── dashboard.png
+│
+├── Meta_Ad_Performance_Dashboard.pbix
+│
+├── README.md
+│
+└── (Optional - add these)
+    ├── Business_Requirements_Document.pdf
+    └── Domain_Knowledge_Document.pdf
 ```
 
 ---
