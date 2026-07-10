@@ -10,7 +10,7 @@ This project simulates a real-world business analytics workflow: starting from a
 
 The project uses the **Meta Ads Performance Dataset**, a set of related tables modeled after how Facebook/Instagram (Meta) ad platforms capture campaign, ad, user, and event-level data.
 
-📥 **Dataset link:** *(add your file link here, e.g. `./Meta_Ad_Performance_Data.xlsx`)*
+📥 **Dataset link:** 
 
 ### Tables & Schema
 
@@ -115,7 +115,7 @@ The `.pbix` file contains a KPI summary view plus **7 core visuals**, all driven
 
 ## 👤 Author
 
-**Priya Dharshini R**
+**Priya Dharshini R**\
 📧 srpriyadharshini16@gmail.com
 
 ---
